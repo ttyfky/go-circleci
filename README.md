@@ -18,7 +18,7 @@ $ go get github.com/ttyfky/go-circleci
 ## Use
 
 ```go
-import "github.com/bold-commerce/go-shopify"
+import "github.com/ttyfky/go-circleci"
 ```
 
 ### Authentication
