@@ -1,5 +1,6 @@
 # go-circleci
 
+[![godoc](https://godoc.org/github.com/ttyfky/go-circleci?status.svg)](https://pkg.go.dev/github.com/ttyfky/go-circleci)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 This is a Go client of [CircleCI API v2](https://circleci.com/docs/api/v2/). 
